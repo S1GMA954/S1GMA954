@@ -1,4 +1,4 @@
-### Hi there 👋, I'am Osvaldo Herrera, student of the university 📖 "Universidad Autónoma de Chile" in the career of civil engineering in computer science 💻.
+### Hi there 👋, I'm Osvaldo Herrera, student of the university 📖 "Universidad Autónoma de Chile" in the career of civil engineering in computer science 💻.
 🌱 I'm currently learning about web technologies and frameworks for website development. I have a crush on Django Framework💘.
 
 <!--
