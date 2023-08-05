@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'am Osvaldo Herrera, student of the university 📖 "Universidad Autónoma de Chile" in the career of civil engineering in computer science 💻.
+🌱 I'm currently learning about web technologies and frameworks for website development. I have a crush on Django Framework💘.
 
 <!--
 **S1GMA954/S1GMA954** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
